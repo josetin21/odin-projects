@@ -1,3 +1,4 @@
 # odin-projects
-index.html is for html boiler plate template
-food_recipe.html and things_to_do.html is for html list assignment
+boiler plate is for template
+assignment is for list assingment
+odin links and images is for links and images assignment
