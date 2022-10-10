@@ -1,2 +1,2 @@
 # odin-projects
-this is for html boiler plate template
+index.html is for html boiler plate template
